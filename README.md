@@ -5,7 +5,7 @@
 - [ ] Codewars: 1
 
 ## Mar 05
-- [X] typing.io: 25 mins
+- [ ] typing.io: 25 mins
 - [X] Python: Dictionaries II (54-55)
 - [X] C++: Setup (01-13)
 - [X] Codewars: 1
