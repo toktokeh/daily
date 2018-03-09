@@ -1,5 +1,5 @@
 ## Mar 09
--   [ ] Typing
+-   [X] Typing
 -   [ ] Python
 -   [ ] Physics
 -   [ ] Chemistry
