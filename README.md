@@ -1,8 +1,11 @@
-## Mar 06
-- [ ] typing.io: 25 mins
-- [ ] Python: Dictionaries III (56-57)
-- [ ] C++: Intro (14-16)
-- [ ] Codewars: 1
+## Mar 09
+-   [ ] typing.io: 25 mins
+-   [ ] Python
+-   [ ] Physics
+-   [ ] Chemistry
+-   [ ] Calculus
+-   [ ] Reddit HW Help
+-   [ ] Codewars: 1
 
 ## Mar 05
 - [ ] typing.io: 25 mins
