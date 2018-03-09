@@ -1,8 +1,8 @@
 ## Mar 09
 -   [X] Typing
--   [ ] Python
--   [ ] Physics
--   [ ] Chemistry
+-   [X] Python
+-   [X] Physics
+-   [X] Chemistry
 -   [ ] Calculus
 -   [ ] Reddit HW Help
--   [ ] Codewars
+-   [X] Codewars
