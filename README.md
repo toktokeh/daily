@@ -5,7 +5,7 @@
 -   What did I do today that moved me towards my goals?
 -   What would I do differently if I had to live the day over?
 
-## Mar 11
+## Mar 12
 -   [ ] Typing
 -   [ ] Python
 -   [ ] Physics
@@ -13,6 +13,15 @@
 -   [ ] Calculus
 -   [ ] Reddit HW Help
 -   [ ] Codewars
+
+## Mar 11
+-   [X] Typing
+-   [X] Python
+-   [X] Physics
+-   [X] Chemistry
+-   [X] Calculus
+-   [X] Reddit HW Help
+-   [X] Codewars
 
 ## Mar 10
 -   [X] Typing
